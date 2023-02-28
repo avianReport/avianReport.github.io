@@ -5,7 +5,7 @@ html,
 body,
 .container {
   height: 100%;
-  font-family: Noto Serif, serif;
+  font-family: Noto Serif, Times New Roman, serif;
   color: #000;
 }
 .container {
