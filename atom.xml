@@ -6,7 +6,7 @@
   <link href="http://avianreport.github.io/atom.xml" rel="self"/>
   
   <link href="http://avianreport.github.io/"/>
-  <updated>2023-03-07T01:21:52.994Z</updated>
+  <updated>2023-03-10T13:08:16.344Z</updated>
   <id>http://avianreport.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BambooTracker</title>
+    <link href="http://avianreport.github.io/2023/03/11/BambooTracker/"/>
+    <id>http://avianreport.github.io/2023/03/11/BambooTracker/</id>
+    <published>2023-03-11T00:00:00.000Z</published>
+    <updated>2023-03-10T13:08:16.344Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>關於音樂創作入門的集合.</p><p><a href="https://github.com/BambooTracker/BambooTracker">bamboo tracker</a><br><a href="https://music-theory.aizcutei.com/">樂理</a><br><a href="https://junshern.github.io/algorithmic-music-tutorial/">Algorithmic Music Composition</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;關於音樂創作入門的集合.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://g</summary>
+      
+    
+    
+    
+    
+    <category term="music" scheme="http://avianreport.github.io/tags/music/"/>
+    
+  </entry>
   
   <entry>
     <title>m1me515</title>
