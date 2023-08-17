@@ -85,6 +85,13 @@ a {
 .highlight .link {
   color: #f5871f;
 }
+.hide {
+  display: none;
+}
+.myDIV:hover + .hide {
+  display: block;
+  color: #800;
+}
 /* Tomorrow Yellow */
 .highlight .attribute {
   color: #eab700;
@@ -260,7 +267,7 @@ a {
   border-bottom: 1px solid #000;
 }
 .archive {
-  padding: 0 20px;
+  padding: 10 20px;
   margin-bottom: 1em;
 }
 .archive .post-archive {
