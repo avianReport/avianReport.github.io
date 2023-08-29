@@ -6,7 +6,7 @@
   <link href="http://avianreport.github.io/atom.xml" rel="self"/>
   
   <link href="http://avianreport.github.io/"/>
-  <updated>2023-08-21T07:50:21.983Z</updated>
+  <updated>2023-08-29T15:02:43.124Z</updated>
   <id>http://avianreport.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>記於CPGZ之後</title>
+    <link href="http://avianreport.github.io/2023/08/29/CPGZ1/"/>
+    <id>http://avianreport.github.io/2023/08/29/CPGZ1/</id>
+    <published>2023-08-28T23:00:00.000Z</published>
+    <updated>2023-08-29T15:02:43.124Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2><p>這是一篇簡短的製本freetalk 。首先聲明，我並不認為我作為「作者」的理解和意圖比任何其他讀者高出一等。我已經在畫完畫、寫完文、做出製品時就已滿足，並退到和所有讀者一致的立場。雖然我在作品裡藏了很多小心思 (或玩笑)，但您是否發現或您如何解讀對我來說已經無關緊要了。您甚至會在下文中發現我完全自我中心不顧角色塑造 (！) 的獨斷專言，以及我嘗試串起發散思維的失敗嘗試。很抱歉，平時我想事情就是這樣的。</p><h2 id="圖本-chair-in-chamber"><a class="markdownIt-Anchor" href="#圖本-chair-in-chamber"></a> 圖本 Chair in Chamber</h2><p>六月非常隨機地想做個宇鳥圖本。和平時單圖不同，需要一個共通的元素貫通整本。前幾年縈繞在我思維表面的詞語是 [房間/Room]。封閉起來私人的空間；宇的房間；鳥在研究所裡沒有他自己的房間 (又或者整個研究所就是他的房間)；中文房間；一間自己的房間；不■■■■就出不去的房間。從Room變到Chamber，更加冷酷；機械化做實驗的鼠的房間；殺戮和囚禁的房間，且細胞 (cell) 的詞源和小修道院/胞室/監獄單間都分不開。還有什麼詞語能比它承載更多文字遊戲嗎？</p><p>當然光有房間也不夠，就連宇都放了黑油漆椅子桌子。該坐下來了，面對面 (如同猜謎) 或一人站著一人坐下。一直執著於兩位面對面，望著對方卻像望向別處，因爲不管願不願意總有細胞的絲線連着。如果只有一把椅子，不用擔心如何擺放椅子，那眼神也會更好安放吧。於是得到Chair in Chamber而非Chairs。</p><p>雖然圖本是參加 CPGZ 的原動力，但卻是最後完稿的。七月在夏校又趕上期末大作業和考試，每天上完學坐電腦前畫，八月初才畫完 (這麼多理由)。封面花了最久時間，一開始是全黑背景，兩人漂浮而小鳥站在兩人背後。畫着想到用硫酸紙打印，付不起白墨打印費，紅色在全黑背景上又是看不到的。只好回去重新畫白色背景的版本 (個人習慣會合併黑色背景和角色圖層)。</p><p>本來紅色的小鳥是可以和宇/鳥完全疊上的，結果出血失敗，沒能完全對上。某友人：「也是一種錯位。」如果印成功如何就請自行想象了。</p><p>內頁有各種惡趣味和椅子和時隱時現的鳥，還加了最擅長的樹/樹突，開車的延續，慘遭殺害■■的陰影，鏡中對峙和門檻邊的人。構思很順利，構圖直接在夢裏出現，醒來畫下。整篇紅色都是同一個色調<span style="color: #9A0112; font-weight: bold">#9A0112</span>。如果不是打印CMYK，當然還是用<span style="color: #FF0000; font-weight: bold">#FF0000</span>。</p><h2 id="文本-a-fun-place-in-hell"><a class="markdownIt-Anchor" href="#文本-a-fun-place-in-hell"></a> 文本 A Fun Place in Hell</h2><p>幾篇寫過的原鳥和宇鳥，校對時很痛苦因為許久未看，一直在想「這寫的什麼」「到底是誰寫的」。當然，還是很喜歡自己寫的東西不然也不會拿出來印。</p><p>沒時間畫封面，借了公有領域的<a href="https://www.moma.org/collection/works/34925">Blue</a> (1927) by康定斯基氏，候選還有康氏的Circle And Rectangle (1932) 和Quiet Burning (1928)。封面封底的10序列是兩種原胞自動機的初始狀態。下了 Golly 很好玩 。</p><blockquote><p>正面：<a href="https://conwaylife.com/wiki/Garden_of_Eden">Garden of Eden 1</a><br />背面：<a href="https://conwaylife.com/wiki/Die_hard">Asymmetric 1398-tick diehard</a></p></blockquote><p>每篇開頭嘗試用木刻的方式畫小藏書票，可以猜猜畫了什麼。目錄頁有鳥的標識飄過。</p><p>文本標題是從之前一個中斷的計劃里借過來的 (也許有人會記得填滿游泳池的黑水)。當時就覺得他們的行為不是遺憾也不是憤恨。What Joy! 他們在地獄或者不在地獄或者在任何地方都應該挺開心的吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="archive" scheme="http://avianreport.github.io/tags/archive/"/>
+    
+  </entry>
   
   <entry>
     <title>嘗試使用情緒記錄類軟件(並失敗)的記錄</title>
