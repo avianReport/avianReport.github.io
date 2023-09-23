@@ -6,7 +6,7 @@ html,
 body,
 .container {
   height: 100%;
-  font-family: Noto Serif, Source Han Serif, Times New Roman, serif;
+  font-family: Noto Serif, Source Han Serif, SimSun, serif;
   color: #000;
 }
 .container {
