@@ -3,21 +3,24 @@ body {
   font-size: 15px;
 }
 html,
-body,
-.container {
+body {
   height: 100%;
-  font-family: Noto Serif, Source Han Serif, SimSun, serif;
+  font-family: GenRyuMin-R, Source Han Serif, serif;
   color: #000;
 }
 .container {
   max-width: 840px;
   margin: 0 auto;
+  font-family: GenRyuMin-R, Source Han Serif, serif;
+  color: #000;
+  height: 100%;
 }
 a {
   color: #9a0112;
   text-decoration: none;
 }
 h1 {
+  font-family: Noto Serif;
   font-size: 20px;
   font-weight: bold;
 }
@@ -261,12 +264,12 @@ h3 {
   border-bottom: 1px solid #000;
 }
 .archive {
-  padding: 10 20px;
+  padding: 20 20px;
   margin-bottom: 1em;
 }
 .archive .post-archive {
   list-style: none;
-  padding: 0;
+  padding: 15;
 }
 .archive .post-archive .post-item {
   margin: 6px 0;
